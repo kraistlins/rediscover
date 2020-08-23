@@ -102,7 +102,7 @@ int main()
     cout << "97: Hello World" << endl;
     cout << "98: Hello World" << endl;
     cout << "99: Hello World" << endl;
-    cout << "100: Hello World" << endl;
+    cout << "100: Hello World" ;
 
     return 0;
 }
